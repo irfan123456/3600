@@ -21,11 +21,12 @@ include "data.php";
         <h4>Objectives</h4>
         <p>These are the primary objectives of this course:</p>
         <ul>
-          <li>To learn how to think like a data scientist.</li>
-          <li>To build intelligent applications that analyze and predict data.</li>
-          <li>To develop the basic skills necessary to pursue research in ML.</li>
+          <li>To provide a broad survey of AI.</li>
+          <li>To develop a deeper understanding of several major topics in AI.</li>
+          <li>To develop the design and programming skills that will help you to build intelligent artifacts.</li>
         </ul>
-        <p>Almost all of Machine Learning applications today require you to think like a researcher. So the last objective will be the core of this course.</p>
+        <p>We will also discuss some philiosphy behind AI and new ways to look at AI related technology.</p>
+        <p>In practice, you should develop enough basic skills and background that you can pursue any desire you have to learn more about specific areas in IS, whether those areas are planning, knowledge representation, machine learning, vision, robotics or whatever. In particular, this class provides a useful foundation for a number of courses involving intelligence systems, including Machine Learning (CS4641), Knowledge-Based AI (CS4634), Computer Vision (CS4495), Robotics and Perception (CS4632), Natural Language Understanding (CS4650) and Game AI (CS4731).</p>
         <h4>Prerequisities</h4>
         <p>Someone once said that the trick to doing AI is coming up with a good representation. That's not quite all there is to it, but it's close enough, so to succeed at this class, you should know a bit about data structures and algorithms. At the very least, you will have to be able to read pseudocode and understand basic algorithms as they are presented to you.</p>
         <p>Someone else one defined AI as finding fast algorithms for NP-hard problems. Again, that's not quite all there is to it, but it's not too far from the truth, so it also turns out that a familiarity with (or at least a lack of abject fear over) some basic theory helps to situate many of the algorithms.</p>
@@ -35,13 +36,13 @@ include "data.php";
         <h4>Grading</h4>
         <p>Your grade will be divided into four components: assignments, a group project, midterm and final exam.</p>
         <ul>
-        <li><b>Assignments:</b> You will have three assignments which will help you to understand how each algorithm that we learn can assist you to analyze data. The last assignment will be on Kaggle where you will compete with your classmates on a data challenge.</li>
+        <li><b>Projects:</b> You will have three projects which will help you to understand the computational side of AI.</li>
         <li><b>Midterm and Final Exam:</b> These will be closed book exams.</li>
         </ul>
         <p><b>Numbers</b>:
-        <br />Assignments 50%
-        <br />Midterm 25%
-        <br />Final 25%</p>
+        <br />Projects 40%
+        <br />Midterm 30%
+        <br />Final 30%</p>
         <h4>Statement of Academic Honesty</h4>
         <p>Your aim should not be to ace the course, but learn as much as you can. Be honest in solving your assignments and exams and you will learn and enjoy the material. You are all adults, more or less, and are expected to follow the university's code of academic conduct (you know, <a href="http://www.gatech.edu/honor/">the honor code</a>). Furthermore, at least some of you are researchers-in-training, and I expect that you understand proper attribution and the importance of intellectual honesty. I also have several... friends... from Texas who will help me personally deal with you.</p>
         <h4>Due Dates</h4>
