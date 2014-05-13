@@ -9,6 +9,9 @@ include "data.php";
         <h2>Introduction to Artificial Intelligence</h2>
         <h4>Updates</h4>
         <small>Last Modified on May 13, 2014.</small>
+        <ul>
+            <li><a href="http://piazza.com/gatech/summer2014/cs3600a">Sign up for Piazza here. </a></li>
+        </ul>
         <hr />
         <h4>Summer 2014</h4>
         <p>Introduction to Artificial Intelligence is a three-credit undergraduate course emphasizing the building of agents, environments, and systems that can be considered as acting intelligently. In particular, you will learn about the methods and tools that will allow you to build complete systems that can interact intelligently with their environment by learning and reasoning about the world.</p>
