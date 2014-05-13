@@ -20,11 +20,11 @@ if($menu) {
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="#">CS 4641</a>
+          <a class="brand" href="#">CS 3600</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li <? is_active($page, "home"); ?>><a href="index.php">Home</a></li>
-              <li><a href="http://piazza.com/gatech/summer2014/cs3600/home">Piazza</a></li>
+              <li><a href="http://piazza.com/gatech/summer2014/cs3600a/home">Piazza</a></li>
               <li <? is_active($page, "schedule"); ?>><a href="schedule.php">Schedule</a></li>
               <li <? is_active($page, "reading"); ?>><a href="reading.php">Reading</a></li>
               <li <? is_active($page, "resources"); ?>><a href="resources.php">Resources</a></li>
