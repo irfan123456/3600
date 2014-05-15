@@ -25,6 +25,16 @@ include "data.php";
         </ul>
     </li>
     <li>1956: John McCarthy coined the term <i>Artificial Intelligence</i>.</li>
+    <li>Cognitive Revolution in psychology
+    <ul>
+        <li>Neanderthal: Models humans and everything they do including their mind</li>
+        <li>Some tried to duplicate the brain using <a href="https://www.youtube.com/watch?v=1UdlZ2dV9pA">Neural Networks</a>. See <a href="https://www.youtube.com/watch?v=vbq8IJfbYIs">Marvin Minsky.</a></li>
+    </ul>
+    </li>
+    <li>Einstein Problems: Symbolic Logic Reasoning</li>
+    <li>70-80s: Knowledge-Based AI</li>
+    <li>87-93: AI Winter (Overpromise)</li>
+    <li>Now: Use of statistics and Machine Learning.</li>
 </ul>
 
 <?
