@@ -8,6 +8,7 @@ include "data.php";
 <div class="container-fluid">
 
 <h4>Project 1: Search in Pacman</h4>
+<p>Due June 11. Submit on t-square.</p>
 
 <title>Project 1: Search in Pacman</title>
 <link href="./project_1_files/projects.css" rel="stylesheet" type="text/css">
