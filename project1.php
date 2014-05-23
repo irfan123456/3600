@@ -15,7 +15,7 @@ include "data.php";
 
 <blockquote>
     <center>
-    <img src="./project_1_files/maze.png" width="400px">
+    <img src="./project_files/maze.png" width="400px">
     </center>
       <p><cite></cite></p><center>All those colored walls,<br>
       Mazes give Pacman the blues,<br>
@@ -82,7 +82,7 @@ correctness. Please <em>do not</em> change the names of any provided functions o
 </p><p><strong>Getting Help:</strong> You are not alone!  If you find yourself stuck  on something, contact the course staff for help.  Office hours, section, and the newsgroup are there for your support; please use them.  If you can't make our office hours, let us know and we will schedule more.  We want these projects to be rewarding and instructional, not frustrating and demoralizing.  But, we don't know when or how to help unless you ask.  One more piece of advice: if you don't know what a variable does or what kind of values it takes, print it out.
 
 </p><h3> Welcome to Pacman </h3>
-After downloading the code (<a href="project_files/search.zip">search.zip</a>), unzipping it and changing to the <em>search</em> directory, you should be able to play a game of Pacman by typing the following at the command line:
+After downloading the code (<a href="https://t-square.gatech.edu/access/content/group/gtc-6a0d-2235-5d8f-813e-f4c71bdc539b/search.zip">search.zip</a>), unzipping it and changing to the <em>search</em> directory, you should be able to play a game of Pacman by typing the following at the command line:
 
 <pre>python pacman.py</pre>
 
