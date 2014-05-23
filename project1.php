@@ -110,7 +110,7 @@ Also, all of the commands that appear in this project also appear in <a href="pr
 
 <h3> Finding a Fixed Food Dot using Search Algorithms </h3>
 
-In <code><a href="project_files/docs/searchAgents.html">searchAgents.py</a></code>, you'll find a fully implemented <code>SearchAgent</code>, which plans out a path through Pacman's world and then executes that path step-by-step.  The search algorithms for formulating a plan are not implemented -- that's your job.  As you work through the following questions, you might need to refer to this <a href="project_files/#Glossary">glossary of objects in the code</a>.
+In <code><a href="project_files/docs/searchAgents.html">searchAgents.py</a></code>, you'll find a fully implemented <code>SearchAgent</code>, which plans out a path through Pacman's world and then executes that path step-by-step.  The search algorithms for formulating a plan are not implemented -- that's your job.  As you work through the following questions, you might need to refer to this <a href="project_files/project1.php#Glossary">glossary of objects in the code</a>.
 
 First, test that the <code>SearchAgent</code> is working correctly by running:
 
