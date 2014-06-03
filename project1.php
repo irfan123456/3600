@@ -287,6 +287,14 @@ We will time your agent using the no graphics option <code>-q</code>, and it mus
 <ul type="disc">
   <li class="MsoNormal">search.py</li>
   <li class="MsoNormal">searchAgents.py</li>
+  <li>A PDF file (max 1 page) that answers these questions briefly. I want you to think about these questions, be as creative in your responses as you can be. Some of these answers probably go beyond what is in the text or what we have talked about in the class.
+  <ul>
+    <li>Describes which algorithms you used in this project and conclude what you learnt.</li>
+    <li>Explain why an agent using these algorithms might be considered as intelligent?</li>
+    <li>Explain why an agent using these algorithms might not be considered as intelligent behavior?</li>
+    <li>How can we modify the search algorithms you used in this project, so that they are more "intelligent"?</li>
+  </ul>
+  </li>
 
 </ul>
 <?

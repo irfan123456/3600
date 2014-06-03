@@ -8,7 +8,8 @@ include "data.php";
     <div class="container-fluid">
         <h2>Introduction to Artificial Intelligence</h2>
         <h4>Updates</h4>
-        <small>May 23: Added <a href="project1.php">Project 1</a>.</small>
+        <small>May 23: Added <a href="project1.php">Project 1</a>.</small> <br />
+        <small>Jun 3: Modified Project 1. Midterm will cover Ch 1-7 from our textbook.</small>
         <ul>
             <li><a href="http://piazza.com/gatech/summer2014/cs3600a">Sign up for Piazza here. </a></li>
         </ul>
@@ -28,11 +29,11 @@ include "data.php";
           <li>To develop a deeper understanding of several major topics in AI.</li>
           <li>To develop the design and programming skills that will help you to build intelligent artifacts.</li>
         </ul>
-        <p>We will also discuss some philiosphy behind AI and new ways to look at AI related technology.</p>
+        <p>We will also discuss some philosophy behind AI and new ways to look at AI related technology.</p>
         <p>In practice, you should develop enough basic skills and background that you can pursue any desire you have to learn more about specific areas in IS, whether those areas are planning, knowledge representation, machine learning, vision, robotics or whatever. In particular, this class provides a useful foundation for a number of courses involving intelligence systems, including Machine Learning (CS4641), Knowledge-Based AI (CS4634), Computer Vision (CS4495), Robotics and Perception (CS4632), Natural Language Understanding (CS4650) and Game AI (CS4731).</p>
         <h4>Prerequisities</h4>
         <p>Someone once said that the trick to doing AI is coming up with a good representation. That's not quite all there is to it, but it's close enough, so to succeed at this class, you should know a bit about data structures and algorithms. At the very least, you will have to be able to read pseudocode and understand basic algorithms as they are presented to you.</p>
-        <p>Someone else one defined AI as finding fast algorithms for NP-hard problems. Again, that's not quite all there is to it, but it's not too far from the truth, so it also turns out that a familiarity with (or at least a lack of abject fear over) some basic theory helps to situate many of the algorithms.</p>
+        <p>Someone else once defined AI as finding fast algorithms for NP-hard problems. Again, that's not quite all there is to it, but it's not too far from the truth, so it also turns out that a familiarity with (or at least a lack of abject fear over) some basic theory helps to situate many of the algorithms.</p>
         <p>As the semester continues, it turns out that a familiarity with basic probability theory will also be very useful; however, we will spend some time on that in class in order to refresh your memory. Finally, you should feel pretty comfortable programming on your own. All projects will be implemented in Python. We will spend no time explaining languages in class; at this point in your career you've been exposed to several programming language and are expected to be able to readily acquire new programming language skills.</p>
         <h4><a href="reading.php">Course Materials</a></h4>
 

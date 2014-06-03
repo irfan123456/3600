@@ -51,25 +51,25 @@ include "data.php";
 
           <tr><td>Jun 3</td><td>Logical Agents
           <ul>
-          <li>Ch 7-9</li>
+          <li>Ch 7 </li>
           </ul>
           </td></tr>
 
-          tr><td>Jun 5</td><td>Logical Agents
+          <tr><td>Jun 5</td><td>Logical Agents and Review
           <ul>
-          <li>Ch 7-9</li>
+          <li>Ch 7 (Upto Ch 7 for midterm)</li>
           </ul>
           </td></tr>
 
           <tr><td>Jun 10</td><td>Midterm
           </td></tr>
 
-          tr><td>Jun 12</td><td>Midterm Review
+          <tr><td>Jun 12</td><td>Midterm Review
           </td></tr>
 
-          <tr><td>Jun 17</td><td>Reasoning with Uncertainity
+          <tr><td>Jun 17</td><td>First Order Logic and Inference
           <ul>
-          <li>Ch 13-14</li>
+          <li>Ch 8-9</li>
           </ul>
           </td></tr>
 

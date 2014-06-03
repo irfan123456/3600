@@ -4,6 +4,9 @@ $reading_list = array (
     "Background" => array (
         "Mathematical Background" => "http://aima.cs.berkeley.edu/newchapa.pdf",
     ),
+    "Resources for the textbook" => array (
+        "Slides" => "http://aima.eecs.berkeley.edu/slides-pdf/",
+    )
 );
 
 $textbook_req_list = array (
