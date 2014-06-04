@@ -21,7 +21,7 @@ include "data.php";
     <li><a href="problems/search.pdf">Search</a></li>
     <li><a href="problems/search2.pdf">Search 2</a></li>
     <li><a href="problems/csp.pdf">Constraint satisfaction</a></li>
-    <li><a href="problems/chute.pdf">Expectiminimax</a></li>
+    <li><a href="problems/chutes.pdf">Expectiminimax</a></li>
 </ul>
 
 <br />
