@@ -9,7 +9,8 @@ include "data.php";
         <h2>Introduction to Artificial Intelligence</h2>
         <h4>Updates</h4>
         <small>May 23: Added <a href="project1.php">Project 1</a>.</small> <br />
-        <small>Jun 3: Modified Project 1. Midterm will cover Ch 1-7 from our textbook.</small>
+        <small>Jun 3: Modified Project 1. Midterm will cover Ch 1-7 from our textbook.</small> <br />
+        <small>Jun 4: Added Extra Problems on the <a href="project.php">Project page</a>.</small>
         <ul>
             <li><a href="http://piazza.com/gatech/summer2014/cs3600a">Sign up for Piazza here. </a></li>
         </ul>
