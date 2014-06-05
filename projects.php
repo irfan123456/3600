@@ -15,13 +15,13 @@ include "data.php";
     <li>Project 3: TBD. </li>
 </ul>
 
-<h4>Extra Problems</h4>
+<h4>Practice Problems</h4>
 <ul>
-    <li><a href="problems/missionaries.pdf">Missionaries and cannibals</a></li>
-    <li><a href="problems/search.pdf">Search</a></li>
-    <li><a href="problems/search2.pdf">Search 2</a></li>
-    <li><a href="problems/csp.pdf">Constraint satisfaction</a></li>
-    <li><a href="problems/chutes.pdf">Expectiminimax</a></li>
+    <li><a href="problems/missionaries.pdf">Missionaries and cannibals</a> (<a href="problems/missionaries-soln.pdf">solution</a>)</li>
+    <li><a href="problems/search.pdf">Search</a> (<a href="problems/search-soln.pdf">solution</a>)</li>
+    <li><a href="problems/search2.pdf">Search 2</a> (<a href="problems/search2-soln.pdf">solution</a>)</li>
+    <li><a href="problems/csp.pdf">Constraint satisfaction</a> (<a href="problems/csp-soln.pdf">solution</a>)</li>
+    <li><a href="problems/chutes.pdf">Expectiminimax</a> (<a href="problems/chutes-soln.pdf">solution</a>)</li>
 </ul>
 
 <br />
