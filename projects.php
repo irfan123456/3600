@@ -11,8 +11,8 @@ include "data.php";
 <ul>
     <li>Project 0: Introduction to Python. <a href="http://www.codecademy.com/tracks/python">Complete the CodeAcademy Python Track.</a> (No Due Date)</li>
     <li>Project 1: <a href="project1.php">Search</a>. </li>
-    <li>Project 2: Constraint Satisfaction Problems. </li>
-    <li>Project 3: TBD. </li>
+    <li>Project 2: <a href="project2.php">Ghostbusters</a>. </li>
+    <li>Project 3: Learning. </li>
 </ul>
 
 <h4>Practice Problems</h4>
