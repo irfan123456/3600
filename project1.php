@@ -295,7 +295,7 @@ We will time your agent using the no graphics option <code>-q</code>, and it mus
     <li>How can we modify the search algorithms you used in this project, so that they are more "intelligent"?</li>
   </ul>
   </li>
-
+</div>
 </ul>
 <?
 include "footer.php";

@@ -5,6 +5,7 @@ include "menu.php";
 include "data.php";
 ?>
 
+<div class="container-fluid">
 <h4>Project 2: Ghostbusters</h4>
 <p>Due July 9. Submit on t-square.</p>
 
@@ -514,6 +515,7 @@ To run the autograder for this question use:
 </p>
 <p>Congratulations!  Only one more project left.
 </p>
+</div>
 <?
 include "footer.php";
 ?>
