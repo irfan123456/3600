@@ -10,8 +10,9 @@ include "data.php";
         <h4>Updates</h4>
         <small>May 23: Added <a href="project1.php">Project 1</a>.</small> <br />
         <small>Jun 3: Modified Project 1. Midterm will cover Ch 1-7 from our textbook.</small> <br />
-        <small>Jun 4: Added Extra Problems on the <a href="projects.php">Project page</a>.</small>
+        <small>Jun 4: Added Extra Problems on the <a href="projects.php">Project page</a>.</small> <br />
         <small>Jun 18: Added <a href="project2.php">Project 2</a>.</small> <br />
+        <small>Jul 14: Added <a href="project3/">Project 3</a>.</small> <br />
         <br />
         <hr />
         <h4>Summer 2014</h4>
