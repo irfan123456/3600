@@ -24,7 +24,7 @@ include "data.php";
     <li><a href="problems/chutes.pdf">Expectiminimax</a> (<a href="problems/chutes-soln.pdf">solution</a>)</li>
     <li><a href="problems/wumpus.pdf">Resolution with propositional logic: wumpus world</a> (<a href="problems/wumpus-soln.pdf">solution</a>)</li>
     <li><a href="problems/bayes-net.pdf">Bayes net inference</a> (<a href="problems/bayes-net-soln.pdf">solution</a>)</li>
-    <li><a href="problems/bayes-net-2.pdf">Bayes net inference 2</a> (<a href="problems/bayes-net2-soln.pdf">solution</a>)</li>
+    <li><a href="problems/bayes-net2.pdf">Bayes net inference 2</a> (<a href="problems/bayes-net2-soln.pdf">solution</a>)</li>
     <li><a href="problems/mdp.pdf">Markov decision process</a> (<a href="problems/mdp-soln.pdf">solution</a>)</li>
     <li><a href="problems/value-iteration.pdf">MDP Value iteration problem</a> (<a href="problems/value-iteration-soln.pdf">solution</a>)</li>
     <li><a href="problems/decision-tree.pdf">Decision tree learning</a> (<a href="problems/decision-tree-soln.pdf">solution</a>)</li>
