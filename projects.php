@@ -22,6 +22,12 @@ include "data.php";
     <li><a href="problems/search2.pdf">Search 2</a> (<a href="problems/search2-soln.pdf">solution</a>)</li>
     <li><a href="problems/csp.pdf">Constraint satisfaction</a> (<a href="problems/csp-soln.pdf">solution</a>)</li>
     <li><a href="problems/chutes.pdf">Expectiminimax</a> (<a href="problems/chutes-soln.pdf">solution</a>)</li>
+    <li><a href="homeworks/wumpus.pdf">Resolution with propositional logic: wumpus world</a> (<a href="homeworks/wumpus-soln.pdf">solution</a>)</li>
+    <li><a href="homeworks/bayes-net.pdf">Bayes net inference</a> (<a href="homeworks/bayes-net-soln.pdf">solution</a>)</li>
+    <li><a href="homeworks/bayes-net-2.pdf">Bayes net inference 2</a> (<a href="homeworks/bayes-net2-soln.pdf">solution</a>)</li>
+    <li><a href="homeworks/mdp.pdf">Markov decision process</a> (<a href="homeworks/mdp-soln.pdf">solution</a>)</li>
+    <li><a href="homeworks/value-iteration.pdf">MDP Value iteration problem</a> (<a href="homeworks/value-iteration-soln.pdf">solution</a>)</li>
+    <li><a href="homeworks/decision-tree.pdf">Decision tree learning</a> (<a href="homeworks/decision-tree-soln.pdf">solution</a>)</li>
 </ul>
 
 <br />

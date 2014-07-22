@@ -13,6 +13,7 @@ include "data.php";
         <small>Jun 4: Added Extra Problems on the <a href="projects.php">Project page</a>.</small> <br />
         <small>Jun 18: Added <a href="project2.php">Project 2</a>.</small> <br />
         <small>Jul 14: Added <a href="project3/">Project 3</a>.</small> <br />
+        <small>Jul 22: Added Extra Problems on the <a href="projects.php">Project page</a>.</small> <br />
         <br />
         <hr />
         <h4>Summer 2014</h4>
